@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+p{
+    /* font-size: 30px;
+    font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal; */
+
+  /* line-height: 50px; */
+}
+h1{
+    /* text-align: left;
+    text-transform: capitalize; */
+    /* word-spacing: 50px; */
+    /* letter-spacing: 40px; */
+}
+
+.box{
+  width: 50%;
+  background-color: aqua;
+}
+
+.child{
+  background-color: purple;
+  width: 40%;
+  font-size: 50px;
+}
+
+/* 100% = 16px
+
+1px = 6.25 % */
+
+/* 1em = 16px */
+
+/* .parent{
+  font-size: 3px;
+}
+
+
+html{
+  font-size: 8px;
+} */
+
+
+li{
+  /* font-size: 4em; */
+  /* font-size: 8rem; */
+}
+/* 1rem = 16px  */
+
+body{
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+.boxModel{
+  /* width: 300px;
+  height: 250px;
+  background-color: aqua; */
+  /* border-width: 10px;
+  border-style: solid;
+  border-color: green; */
+  /* border: 15px solid red;
+  box-shadow: 20px 20px 75px green;
+  border-radius:30px; */
+ /* margin: 50px;
+ padding: 50px 30px; */
+
+}
+
+
+/* .boxModel{
+  width: 300px;
+  height: 200px;
+  background-color: aqua;
+  overflow: auto;
+} */
+
+a{
+  background-color: aqua;
+  padding: 8px;
+  margin-left: 15px;
+  text-decoration: none;
+  width: 100px;
+  height: 100px;
+  display: block;
+  
+}
+
+.box1{
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+  margin-bottom: 10px;
+  /* display: inline; */
+}
+
+.inline-block {
+  background-color: green;
+  margin-bottom: 10px;
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+}
+
+.box-2{
+  /* display: none; */
+  visibility: hidden;
+}
